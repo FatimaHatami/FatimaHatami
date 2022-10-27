@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FatimaHatami.
-- 👀 I’m interested in reading books, learning new things and explore new worlds.
+- 👀 I’m interested in reading books, learning new things and exploring new worlds.
 - 🌱 I’m currently learning react js and typescript.
 - 💞️ I’m looking to collaborate on any Frontend projects.
 <!-- - 📫 How to reach me ... -->
