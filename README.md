@@ -3,7 +3,7 @@
 - 🌱 I have a deep knowledge in Html, css, Javascript, Sass, Bootstrap and I’m currently learning reactjs and typescript as well.
 - 💞️ I’m looking to collaborate on any project as a Frontend developer.
 <!-- - 📫 How to reach me ... -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm++Tia+a+passionate+and+creative+Frontend+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCDB6&width=720&lines=Hi%2C+I'm++Tia+a+passionate+and+creative+Frontend+Web+Developer)](https://git.io/typing-svg)
 <!---
 FatimaHatami/FatimaHatami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
