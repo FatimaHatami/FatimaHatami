@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 | ![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaHatami&show_icons=true&theme=radical) | [![Sk. Salahuddin's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimahatami&langs_count=8&layout=compact&theme=radical)](https://github.com/FatimaHatami/github-readme-stats) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatimahatami"></img>
+
+![Visitor Count](https://profile-counter.glitch.me/{FatimaHatami}/count.svg)
