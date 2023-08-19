@@ -9,7 +9,7 @@ FatimaHatami/FatimaHatami is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### 📈 GitHub Activity Graph:
-[![Tia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sksalahuddin2828&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FatimaHatami/github-readme-activity-graph)
+[![Tia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FatimaHatami&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FatimaHatami/github-readme-activity-graph)
 
 |     Tia's GitHub Stats                                                                                                                   | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
