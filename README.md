@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCDB6&width=720&lines=Hi%2C+I'm++Tia+Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 # 💫 About Me:
-💡 I’m Tia, A passionate and creative frontend web developer who is graduated in software engineering.<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
+💡 I’m Tia, A passionate and creative frontend web developer.<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
 🌱 I’m currently learning reactjs and typescript<br>
 💬 Open for collaborations!<br>
 📫 You can contact me at tiadev1998@gmail.com
