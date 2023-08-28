@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCDB6&width=720&lines=Hi%2C+I'm++Tia+a+passionate+and+creative+Frontend+Web+Developer)](https://git.io/typing-svg)
 
-![](https://github.com/FatimaHatami/FatimaHatami/blob/main/6500_5_08.jpg?raw=true)
 <!---
 FatimaHatami/FatimaHatami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
